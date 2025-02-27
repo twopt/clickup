@@ -14,8 +14,8 @@ import (
 )
 
 const (
-	ProdAPIbase   = "https://app.clickup.com/api"
-	ProdAPIbaseV2 = "https://app.clickup.com/api/v2"
+	ProdAPIbase   = "https://api.clickup.com/api"
+	ProdAPIbaseV2 = "https://api.clickup.com/api/v2"
 )
 
 // CheckTokenExists returns True if a user auth token is availalble, otherwise false
