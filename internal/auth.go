@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	ProdAPIbase   = "https://api.clickup.com/api"
+	ProdAPIbase   = "https://app.clickup.com/api"
 	ProdAPIbaseV2 = "https://api.clickup.com/api/v2"
 )
 
